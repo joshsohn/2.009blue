@@ -5,7 +5,7 @@
 Adafruit_DPS310 dps;
 
 // Can also use SPI!
-#define DPS310_CS 10
+//#define DPS310_CS 10
 
 void setup() {
   Serial.begin(115200);
