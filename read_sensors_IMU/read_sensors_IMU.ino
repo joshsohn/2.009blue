@@ -128,5 +128,5 @@ void loop() {
   display.println();
   display.display();      // Show initial text
   
-  delay(500);
+  delay(100);
 }
