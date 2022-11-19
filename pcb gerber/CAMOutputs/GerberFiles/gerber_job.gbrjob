@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-11-19T23:11:33Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "009pcb3_12mil"
+        },
+        "Owner": "Josh Sohn <jcsohn@mit.edu>",
+        "Size": {
+            "X": 50.8,
+            "Y": 44.45
+        }
+    }
+}
