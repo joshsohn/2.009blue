@@ -56,25 +56,25 @@
 </layers>
 <library>
 <packages>
-<package name="RESC2012X50N">
-<text x="-1.71" y="-1.05" size="0.5" layer="27" align="top-left">&gt;VALUE</text>
-<text x="-1.71" y="1.05" size="0.5" layer="25">&gt;NAME</text>
-<wire x1="1.1" y1="-0.7" x2="-1.1" y2="-0.7" width="0.127" layer="51"/>
-<wire x1="1.1" y1="0.7" x2="-1.1" y2="0.7" width="0.127" layer="51"/>
-<wire x1="1.1" y1="-0.7" x2="1.1" y2="0.7" width="0.127" layer="51"/>
-<wire x1="-1.1" y1="-0.7" x2="-1.1" y2="0.7" width="0.127" layer="51"/>
-<wire x1="-0.22" y1="0.7" x2="0.22" y2="0.7" width="0.127" layer="21"/>
-<wire x1="-0.22" y1="-0.7" x2="0.22" y2="-0.7" width="0.127" layer="21"/>
-<wire x1="-1.71" y1="-0.96" x2="1.71" y2="-0.96" width="0.05" layer="39"/>
-<wire x1="-1.71" y1="0.96" x2="1.71" y2="0.96" width="0.05" layer="39"/>
-<wire x1="-1.71" y1="-0.96" x2="-1.71" y2="0.96" width="0.05" layer="39"/>
-<wire x1="1.71" y1="-0.96" x2="1.71" y2="0.96" width="0.05" layer="39"/>
-<smd name="1" x="-1" y="0" dx="0.92" dy="1.42" layer="1"/>
-<smd name="2" x="1" y="0" dx="0.92" dy="1.42" layer="1"/>
+<package name="RESC6331X65N">
+<text x="-3.84" y="-1.98" size="0.5" layer="27" align="top-left">&gt;VALUE</text>
+<text x="-3.84" y="1.98" size="0.5" layer="25">&gt;NAME</text>
+<wire x1="3.22" y1="-1.63" x2="-3.22" y2="-1.63" width="0.127" layer="51"/>
+<wire x1="3.22" y1="1.63" x2="-3.22" y2="1.63" width="0.127" layer="51"/>
+<wire x1="3.22" y1="-1.63" x2="3.22" y2="1.63" width="0.127" layer="51"/>
+<wire x1="-3.22" y1="-1.63" x2="-3.22" y2="1.63" width="0.127" layer="51"/>
+<wire x1="-2.2" y1="1.63" x2="2.2" y2="1.63" width="0.127" layer="21"/>
+<wire x1="-2.2" y1="-1.63" x2="2.2" y2="-1.63" width="0.127" layer="21"/>
+<wire x1="-3.84" y1="-1.885" x2="3.84" y2="-1.885" width="0.05" layer="39"/>
+<wire x1="-3.84" y1="1.885" x2="3.84" y2="1.885" width="0.05" layer="39"/>
+<wire x1="-3.84" y1="-1.885" x2="-3.84" y2="1.885" width="0.05" layer="39"/>
+<wire x1="3.84" y1="-1.885" x2="3.84" y2="1.885" width="0.05" layer="39"/>
+<smd name="1" x="-3.055" y="0" dx="1.07" dy="3.27" layer="1"/>
+<smd name="2" x="3.055" y="0" dx="1.07" dy="3.27" layer="1"/>
 </package>
 </packages>
 <symbols>
-<symbol name="RCS08052R70FKEA">
+<symbol name="RC2512FK-074R7L">
 <wire x1="-5.08" y1="0" x2="-4.445" y2="1.905" width="0.254" layer="94"/>
 <wire x1="-4.445" y1="1.905" x2="-3.175" y2="-1.905" width="0.254" layer="94"/>
 <wire x1="-3.175" y1="-1.905" x2="-1.905" y2="1.905" width="0.254" layer="94"/>
@@ -91,28 +91,27 @@
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="RCS08052R70FKEA" prefix="R">
-<description> &lt;a href="https://pricing.snapeda.com/parts/RCS08052R70FKEA/Vishay/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
+<deviceset name="RC2512FK-074R7L" prefix="R">
+<description>RESISTOR, 2512 1% 4R7; Resistance:4.7ohm; Resistance Tolerance:± 1%; Power Rating:1W; Voltage Rating:200V; Temperature Coefficient:± 200ppm/°C; Resistor Element Material:Thick Film; Resistor Case Style:2512; Resistor Mounting:SMD; SVHC:No SVHC (20-Jun-2011); External Depth:0.55mm; External Length / Height:6.35mm; External Width:3.1mm; No. of Pins:2; Operating Temperature Max:155°C; Operating Temperature Min:-55°C; Operating Temperature Range:-55°C to +155°C; Package / Case:2512; Reel Quantity:4000; Series:PRC221; Temperature Coeff. +:200ppm/°C; Temperature Coeff. -:200ppm/°C; Tolerance +:1%; Tolerance -:1%; Voltage Rating V DC:200V </description>
 <gates>
-<gate name="G$1" symbol="RCS08052R70FKEA" x="0" y="0"/>
+<gate name="G$1" symbol="RC2512FK-074R7L" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="RESC2012X50N">
+<device name="" package="RESC6331X65N">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <technologies>
 <technology name="">
-<attribute name="Availability" value="In Stock"/>
-<attribute name="MF" value="Vishay"/>
+<attribute name="MP" value="RC2512FK-074R7L"/>
+<attribute name="Digi-Key_Part_Number" value="13-RC2512FK-074R7LTR-ND"/>
+<attribute name="Purchase-URL" value="https://pricing.snapeda.com/search/part/RC2512FK-074R7L/?ref=eda"/>
+<attribute name="MF" value="Yageo"/>
+<attribute name="Package" value="6331 Yageo"/>
 <attribute name="Description" value="
-RES SMD 2.7 OHM 1% 0.4W 0805
+4.7 Ohms ±1% 1W Chip Resistor 2512 (6432 Metric) Moisture Resistant Thick Film
 "/>
-<attribute name="Price" value="None"/>
-<attribute name="Package" value="2012 Vishay"/>
-<attribute name="Purchase-URL" value="https://pricing.snapeda.com/search/part/RCS08052R70FKEA/?ref=eda"/>
-<attribute name="MP" value="RCS08052R70FKEA"/>
 </technology>
 </technologies>
 </device>
