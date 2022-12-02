@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="2" name="Route2" color="16" fill="1" visible="yes" active="no"/>
-<layer number="3" name="Route3" color="17" fill="1" visible="yes" active="no"/>
-<layer number="4" name="Route4" color="18" fill="1" visible="yes" active="no"/>
-<layer number="5" name="Route5" color="19" fill="1" visible="yes" active="no"/>
-<layer number="6" name="Route6" color="25" fill="1" visible="yes" active="no"/>
-<layer number="7" name="Route7" color="26" fill="1" visible="yes" active="no"/>
-<layer number="8" name="Route8" color="27" fill="1" visible="yes" active="no"/>
-<layer number="9" name="Route9" color="28" fill="1" visible="yes" active="no"/>
-<layer number="10" name="Route10" color="29" fill="1" visible="yes" active="no"/>
-<layer number="11" name="Route11" color="30" fill="1" visible="yes" active="no"/>
-<layer number="12" name="Route12" color="20" fill="1" visible="yes" active="no"/>
-<layer number="13" name="Route13" color="21" fill="1" visible="yes" active="no"/>
-<layer number="14" name="Route14" color="22" fill="1" visible="yes" active="no"/>
-<layer number="15" name="Route15" color="23" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
+<layer number="3" name="Route3" color="17" fill="1" visible="no" active="no"/>
+<layer number="4" name="Route4" color="18" fill="1" visible="no" active="no"/>
+<layer number="5" name="Route5" color="19" fill="1" visible="no" active="no"/>
+<layer number="6" name="Route6" color="25" fill="1" visible="no" active="no"/>
+<layer number="7" name="Route7" color="26" fill="1" visible="no" active="no"/>
+<layer number="8" name="Route8" color="27" fill="1" visible="no" active="no"/>
+<layer number="9" name="Route9" color="28" fill="1" visible="no" active="no"/>
+<layer number="10" name="Route10" color="29" fill="1" visible="no" active="no"/>
+<layer number="11" name="Route11" color="30" fill="1" visible="no" active="no"/>
+<layer number="12" name="Route12" color="20" fill="1" visible="no" active="no"/>
+<layer number="13" name="Route13" color="21" fill="1" visible="no" active="no"/>
+<layer number="14" name="Route14" color="22" fill="1" visible="no" active="no"/>
+<layer number="15" name="Route15" color="23" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="24" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,19 +53,19 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
-<layer number="59" name="tCarbon" color="7" fill="1" visible="yes" active="no"/>
-<layer number="60" name="bCarbon" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
 <layer number="88" name="SimResults" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="89" name="SimProbes" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
@@ -1867,121 +1867,6 @@ CONN_03
 </deviceset>
 </devicesets>
 </library>
-<library name="SparkFun-Switches">
-<description>&lt;h3&gt;SparkFun Switches, Buttons, Encoders&lt;/h3&gt;
-In this library you'll find switches, buttons, joysticks, and anything that moves to create or disrupt an electrical connection.
-&lt;br&gt;
-&lt;br&gt;
-We've spent an enormous amount of time creating and checking these footprints and parts, but it is &lt;b&gt; the end user's responsibility&lt;/b&gt; to ensure correctness and suitablity for a given componet or application. 
-&lt;br&gt;
-&lt;br&gt;If you enjoy using this library, please buy one of our products at &lt;a href=" www.sparkfun.com"&gt;SparkFun.com&lt;/a&gt;.
-&lt;br&gt;
-&lt;br&gt;
-&lt;b&gt;Licensing:&lt;/b&gt; Creative Commons ShareAlike 4.0 International - https://creativecommons.org/licenses/by-sa/4.0/ 
-&lt;br&gt;
-&lt;br&gt;
-You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
-<packages>
-<package name="REED_SWITCH_GLASS">
-<description>&lt;h3&gt;Reed Switch - Glass case - PTH&lt;/h3&gt;
-&lt;p&gt;A reed switch is a magnetically-actuated switch. When the device is exposed to a magnetic field, the two ferrous materials inside the switch pull together and the switch closes.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.sparkfun.com/datasheets/Components/Buttons/MDSR-4.pdf"&gt;Datasheet&lt;/a&gt;&lt;/p&gt;</description>
-<wire x1="-6.985" y1="-1.143" x2="6.985" y2="-1.143" width="0.2032" layer="21"/>
-<wire x1="-6.985" y1="-1.143" x2="-6.985" y2="0" width="0.2032" layer="21"/>
-<wire x1="-6.985" y1="0" x2="-6.985" y2="1.143" width="0.2032" layer="21"/>
-<wire x1="-6.985" y1="1.143" x2="6.985" y2="1.143" width="0.2032" layer="21"/>
-<wire x1="6.985" y1="1.143" x2="6.985" y2="0" width="0.2032" layer="21"/>
-<wire x1="6.985" y1="0" x2="6.985" y2="-1.143" width="0.2032" layer="21"/>
-<wire x1="-6.985" y1="0" x2="-7.62" y2="0" width="0.2032" layer="21"/>
-<wire x1="6.985" y1="0" x2="7.62" y2="0" width="0.2032" layer="21"/>
-<pad name="P$1" x="-8.89" y="0" drill="1.016" diameter="1.8796"/>
-<pad name="P$2" x="8.89" y="0" drill="1.016" diameter="1.8796"/>
-<text x="0" y="1.27" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;Name</text>
-<text x="0" y="-1.27" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;Value</text>
-</package>
-<package name="REED_SWITCH_PLASTIC">
-<description>&lt;h3&gt;Reed Switch - Insulated Case - PTH&lt;/h3&gt;
-&lt;p&gt;A reed switch is a magnetically-actuated switch. When the device is exposed to a magnetic field, the two ferrous materials inside the switch pull together and the switch closes.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://cdn.sparkfun.com/datasheets/Dev/LilyPad/RS-01C.jpg"&gt;Datasheet&lt;/a&gt; (RS-01C)&lt;/p&gt;</description>
-<wire x1="-7.5" y1="-1.65" x2="7.5" y2="-1.65" width="0.2032" layer="21"/>
-<wire x1="-7.5" y1="-1.65" x2="-7.5" y2="0" width="0.2032" layer="21"/>
-<wire x1="-7.5" y1="0" x2="-7.5" y2="1.65" width="0.2032" layer="21"/>
-<wire x1="-7.5" y1="1.65" x2="7.5" y2="1.65" width="0.2032" layer="21"/>
-<wire x1="7.5" y1="1.65" x2="7.5" y2="0" width="0.2032" layer="21"/>
-<wire x1="7.5" y1="0" x2="7.5" y2="-1.65" width="0.2032" layer="21"/>
-<wire x1="-7.5" y1="0" x2="-7.72" y2="0" width="0.2032" layer="21"/>
-<wire x1="7.5" y1="0" x2="7.72" y2="0" width="0.2032" layer="21"/>
-<pad name="P$1" x="-8.89" y="0" drill="1.016" diameter="1.8796"/>
-<pad name="P$2" x="8.89" y="0" drill="1.016" diameter="1.8796"/>
-<text x="0" y="1.778" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;Name</text>
-<text x="0" y="-1.778" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;Value</text>
-</package>
-</packages>
-<symbols>
-<symbol name="REED_SWITCH">
-<description>&lt;h3&gt;Reed Switch&lt;/h3&gt;
-&lt;p&gt;A reed switch is a magnetically-actuated switch. When the device is exposed to a magnetic field, the two ferrous materials inside the switch pull together and the switch closes.&lt;/p&gt;</description>
-<wire x1="1.905" y1="0" x2="2.54" y2="0" width="0.1524" layer="94"/>
-<wire x1="-2.54" y1="0" x2="1.905" y2="1.27" width="0.254" layer="94"/>
-<circle x="-2.54" y="0" radius="0.127" width="0.4064" layer="94"/>
-<circle x="2.54" y="0" radius="0.127" width="0.4064" layer="94"/>
-<text x="0" y="2.032" size="1.778" layer="95" font="vector" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-2.032" size="1.778" layer="96" font="vector" align="top-center">&gt;VALUE</text>
-<pin name="1" x="-5.08" y="0" visible="off" length="short" direction="pas" swaplevel="2"/>
-<pin name="2" x="5.08" y="0" visible="off" length="short" direction="pas" swaplevel="1" rot="R180"/>
-<wire x1="-4.064" y1="0" x2="-2.286" y2="1.778" width="0.254" layer="94" curve="-90"/>
-<wire x1="-2.286" y1="1.778" x2="2.286" y2="1.778" width="0.254" layer="94"/>
-<wire x1="2.286" y1="1.778" x2="4.064" y2="0" width="0.254" layer="94" curve="-90"/>
-<wire x1="4.064" y1="0" x2="2.286" y2="-1.778" width="0.254" layer="94" curve="-90"/>
-<wire x1="-2.286" y1="-1.778" x2="-4.064" y2="0" width="0.254" layer="94" curve="-90"/>
-<wire x1="2.286" y1="-1.778" x2="-2.286" y2="-1.778" width="0.254" layer="94"/>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="REED_SWITCH" prefix="S">
-<description>&lt;h3&gt;Reed Switch&lt;/h3&gt;
-&lt;p&gt;A reed switch is a magnetically-actuated switch. When the device is exposed to a magnetic field, the two ferrous materials inside the switch pull together and the switch closes.&lt;/p&gt;
-&lt;h4&gt;Variant Overview&lt;/h4&gt;
-&lt;h5&gt;PTH-GLASS&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/8642"&gt;Reed Switch&lt;/a&gt; (COM-08642) - PTH reed switch w/ glass body (6.0 x 0.9 mm)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5&gt;PTH-INSULATED&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/10601"&gt;Reed Switch - Insulated&lt;/a&gt; (COM-10601) - PTH reed switch w/ insulated body (15.1 x 4.2 mm)&lt;/li&gt;
-&lt;/ul&gt;</description>
-<gates>
-<gate name="G$1" symbol="REED_SWITCH" x="0" y="0"/>
-</gates>
-<devices>
-<device name="-PTH-GLASS" package="REED_SWITCH_GLASS">
-<connects>
-<connect gate="G$1" pin="1" pad="P$1"/>
-<connect gate="G$1" pin="2" pad="P$2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="SWCH-09282"/>
-<attribute name="SF_SKU" value="COM-08642"/>
-</technology>
-</technologies>
-</device>
-<device name="-PTH-INSULATED" package="REED_SWITCH_PLASTIC">
-<connects>
-<connect gate="G$1" pin="1" pad="P$1"/>
-<connect gate="G$1" pin="2" pad="P$2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="SWCH-10467"/>
-<attribute name="SF_SKU" value="COM-10601"/>
-</technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
 <library name="5988170107F">
 <packages>
 <package name="LEDC2012X70N">
@@ -3746,6 +3631,79 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </deviceset>
 </devicesets>
 </library>
+<library name="RI-80GP0510">
+<packages>
+<package name="REED_SWITCH_GLASS">
+<description>&lt;h3&gt;Reed Switch - Glass case - PTH&lt;/h3&gt;
+&lt;p&gt;A reed switch is a magnetically-actuated switch. When the device is exposed to a magnetic field, the two ferrous materials inside the switch pull together and the switch closes.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.sparkfun.com/datasheets/Components/Buttons/MDSR-4.pdf"&gt;Datasheet&lt;/a&gt;&lt;/p&gt;</description>
+<wire x1="-2.54" y1="-0.9144" x2="2.54" y2="-0.9144" width="0.2032" layer="21"/>
+<wire x1="-2.54" y1="-0.9144" x2="-2.54" y2="0" width="0.2032" layer="21"/>
+<wire x1="-2.54" y1="0" x2="-2.54" y2="0.9144" width="0.2032" layer="21"/>
+<wire x1="-2.54" y1="0.9144" x2="2.54" y2="0.9144" width="0.2032" layer="21"/>
+<wire x1="2.54" y1="0.9144" x2="2.54" y2="0" width="0.2032" layer="21"/>
+<wire x1="2.54" y1="0" x2="2.54" y2="-0.9144" width="0.2032" layer="21"/>
+<wire x1="-2.54" y1="0" x2="-7.62" y2="0" width="0.2032" layer="21"/>
+<wire x1="2.54" y1="0" x2="7.62" y2="0" width="0.2032" layer="21"/>
+<pad name="P$1" x="-8.89" y="0" drill="1.016" diameter="1.8796"/>
+<pad name="P$2" x="8.89" y="0" drill="1.016" diameter="1.8796"/>
+<text x="0" y="1.27" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;Name</text>
+<text x="0" y="-1.27" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;Value</text>
+</package>
+</packages>
+<symbols>
+<symbol name="REED_SWITCH">
+<description>&lt;h3&gt;Reed Switch&lt;/h3&gt;
+&lt;p&gt;A reed switch is a magnetically-actuated switch. When the device is exposed to a magnetic field, the two ferrous materials inside the switch pull together and the switch closes.&lt;/p&gt;</description>
+<wire x1="1.905" y1="0" x2="2.54" y2="0" width="0.1524" layer="94"/>
+<wire x1="-2.54" y1="0" x2="1.905" y2="1.27" width="0.254" layer="94"/>
+<circle x="-2.54" y="0" radius="0.127" width="0.4064" layer="94"/>
+<circle x="2.54" y="0" radius="0.127" width="0.4064" layer="94"/>
+<text x="0" y="2.032" size="1.778" layer="95" font="vector" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-2.032" size="1.778" layer="96" font="vector" align="top-center">&gt;VALUE</text>
+<pin name="1" x="-5.08" y="0" visible="off" length="short" direction="pas" swaplevel="2"/>
+<pin name="2" x="5.08" y="0" visible="off" length="short" direction="pas" swaplevel="1" rot="R180"/>
+<wire x1="-4.064" y1="0" x2="-2.286" y2="1.778" width="0.254" layer="94" curve="-90"/>
+<wire x1="-2.286" y1="1.778" x2="2.286" y2="1.778" width="0.254" layer="94"/>
+<wire x1="2.286" y1="1.778" x2="4.064" y2="0" width="0.254" layer="94" curve="-90"/>
+<wire x1="4.064" y1="0" x2="2.286" y2="-1.778" width="0.254" layer="94" curve="-90"/>
+<wire x1="-2.286" y1="-1.778" x2="-4.064" y2="0" width="0.254" layer="94" curve="-90"/>
+<wire x1="2.286" y1="-1.778" x2="-2.286" y2="-1.778" width="0.254" layer="94"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="REED_SWITCH" prefix="S">
+<description>&lt;h3&gt;Reed Switch&lt;/h3&gt;
+&lt;p&gt;A reed switch is a magnetically-actuated switch. When the device is exposed to a magnetic field, the two ferrous materials inside the switch pull together and the switch closes.&lt;/p&gt;
+&lt;h4&gt;Variant Overview&lt;/h4&gt;
+&lt;h5&gt;PTH-GLASS&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/8642"&gt;Reed Switch&lt;/a&gt; (COM-08642) - PTH reed switch w/ glass body (6.0 x 0.9 mm)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;PTH-INSULATED&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/10601"&gt;Reed Switch - Insulated&lt;/a&gt; (COM-10601) - PTH reed switch w/ insulated body (15.1 x 4.2 mm)&lt;/li&gt;
+&lt;/ul&gt;</description>
+<gates>
+<gate name="G$1" symbol="REED_SWITCH" x="0" y="0"/>
+</gates>
+<devices>
+<device name="-PTH-GLASS" package="REED_SWITCH_GLASS">
+<connects>
+<connect gate="G$1" pin="1" pad="P$1"/>
+<connect gate="G$1" pin="2" pad="P$2"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="PROD_ID" value="SWCH-09282"/>
+<attribute name="SF_SKU" value="COM-08642"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -3756,114 +3714,108 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </class>
 </classes>
 <parts>
-<part name="R1" library="RC0805JR-0720KL" deviceset="RC0805JR-0720KL" device="" value="10 kΩ"/>
-<part name="555_TIMER" library="NE555DR" deviceset="NE555DR" device=""/>
-<part name="BATTERY_CHARGER" library="MCP73831T-5ACI_OT" deviceset="MCP73831T-5ACI/OT" device=""/>
-<part name="C1" library="GRT21BR61H475ME13L" deviceset="GRT21BR61H475ME13L" device="" value="4.7 uF"/>
-<part name="MOSFET1" library="DMP2004K" deviceset="DMP2004K" device="" value="P_CHANNEL"/>
-<part name="C2" library="GRT21BR61H475ME13L" deviceset="GRT21BR61H475ME13L" device="" value="4.7 uF"/>
+<part name="R_PROG" library="RC0805JR-0720KL" deviceset="RC0805JR-0720KL" device="" value="10 kΩ"/>
+<part name="555_TIMER" library="NE555DR" deviceset="NE555DR" device="" value=""/>
+<part name="CHARGER" library="MCP73831T-5ACI_OT" deviceset="MCP73831T-5ACI/OT" device="" value=""/>
+<part name="CIN" library="GRT21BR61H475ME13L" deviceset="GRT21BR61H475ME13L" device="" value="4.7 uF"/>
+<part name="MOSFET_P" library="DMP2004K" deviceset="DMP2004K" device="" value=""/>
+<part name="COUT" library="GRT21BR61H475ME13L" deviceset="GRT21BR61H475ME13L" device="" value="4.7 uF"/>
 <part name="GND1" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND2" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="R3" library="RC0805JR-0720KL" deviceset="RC0805JR-0720KL" device="" value="220 Ω"/>
+<part name="R_LED" library="RC0805JR-0720KL" deviceset="RC0805JR-0720KL" device="" value="220 Ω"/>
 <part name="GND3" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND4" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND5" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="BOOST_CONVERTER" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="CONN_03" device="" package3d_urn="urn:adsk.eagle:package:38063/1"/>
+<part name="12V_REGULATOR" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="CONN_03" device="" package3d_urn="urn:adsk.eagle:package:38063/1"/>
 <part name="GND6" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="C3" library="GRT21BR61H475ME13L" deviceset="GRT21BR61H475ME13L" device="" value=""/>
 <part name="RB" library="RC0805JR-0720KL" deviceset="RC0805JR-0720KL" device="" value="Ω"/>
 <part name="RA" library="RC0805JR-0720KL" deviceset="RC0805JR-0720KL" device="" value="Ω"/>
-<part name="R6" library="RC0805JR-0720KL" deviceset="RC0805JR-0720KL" device="" value="10 Ω"/>
-<part name="R7" library="RC0805JR-0720KL" deviceset="RC0805JR-0720KL" device="" value="10 Ω"/>
+<part name="R5" library="RC0805JR-0720KL" deviceset="RC0805JR-0720KL" device="" value="10 Ω"/>
+<part name="R4" library="RC0805JR-0720KL" deviceset="RC0805JR-0720KL" device="" value="10 Ω"/>
 <part name="GND7" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND8" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="C4" library="GRT21BR61H475ME13L" deviceset="GRT21BR61H475ME13L" device="" value="0.01 uF"/>
 <part name="GND9" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND11" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="R4" library="RC0805JR-0720KL" deviceset="RC0805JR-0720KL" device="" value="20 kΩ"/>
-<part name="REED_SWITCH" library="SparkFun-Switches" deviceset="REED_SWITCH" device="-PTH-GLASS" value="NORMALLY_OPEN"/>
-<part name="D1" library="5988170107F" deviceset="5988170107F" device=""/>
+<part name="R3" library="RC0805JR-0720KL" deviceset="RC0805JR-0720KL" device="" value="20 kΩ"/>
+<part name="CHARGER_LED" library="5988170107F" deviceset="5988170107F" device="" value=""/>
 <part name="GND12" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="MOSFET2" library="SSM3K335R" deviceset="SSM3K335R" device=""/>
-<part name="MOSFET3" library="SSM3K335R" deviceset="SSM3K335R" device=""/>
+<part name="MOSFET_N1" library="SSM3K335R" deviceset="SSM3K335R" device="" value=""/>
+<part name="MOSFET_N2" library="SSM3K335R" deviceset="SSM3K335R" device="" value=""/>
 <part name="GND13" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="INVERTER" library="BU4SU69G2-TR" deviceset="BU4SU69G2-TR" device=""/>
+<part name="INVERTER" library="BU4SU69G2-TR" deviceset="BU4SU69G2-TR" device="" value=""/>
 <part name="GND10" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="VOLTAGE_REGULATOR" library="TLV61070A" deviceset="TLV61070A" device="SOT-23" value="TLV61070A"/>
+<part name="5V_REGULATOR" library="TLV61070A" deviceset="TLV61070A" device="SOT-23" value=""/>
 <part name="GND14" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="L1" library="74438357022" deviceset="74438357022" device="" value="2.2 uH"/>
-<part name="C5" library="GRT21BR61H475ME13L" deviceset="GRT21BR61H475ME13L" device="" value=""/>
+<part name="C1" library="GRT21BR61H475ME13L" deviceset="GRT21BR61H475ME13L" device="" value=""/>
 <part name="GND15" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
+<part name="R1" library="RC0805JR-0720KL" deviceset="RC0805JR-0720KL" device="" value="Ω"/>
 <part name="R2" library="RC0805JR-0720KL" deviceset="RC0805JR-0720KL" device="" value="Ω"/>
-<part name="R5" library="RC0805JR-0720KL" deviceset="RC0805JR-0720KL" device="" value="Ω"/>
 <part name="GND16" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="R1_1W" library="RC2512FK-074R7L" deviceset="RC2512FK-074R7L" device="" value="4.7 Ω"/>
-<part name="C6" library="GRT21BR61H475ME13L" deviceset="GRT21BR61H475ME13L" device="" value=""/>
+<part name="R_1W" library="RC2512FK-074R7L" deviceset="RC2512FK-074R7L" device="" value="4.7 Ω"/>
 <part name="GND17" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="CHARGER_PORT1" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1"/>
-<part name="CHARGER_PORT2" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1"/>
-<part name="BATTERY1" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1"/>
-<part name="BATTERY2" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1"/>
-<part name="WHITE_LED1" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1"/>
-<part name="WHITE_LED2" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1"/>
-<part name="ACTIVE_BUZZER1" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1"/>
-<part name="ACTIVE_BUZZER2" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1"/>
+<part name="CHARGER_V" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1" value=""/>
+<part name="CH_GND" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1" value=""/>
+<part name="BATTERY_V" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1" value=""/>
+<part name="BAT_GND" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1" value=""/>
+<part name="LED_A" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1" value=""/>
+<part name="LED_C" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1" value=""/>
+<part name="BUZZER_A" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1"/>
+<part name="BUZZER_C" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1"/>
+<part name="REED_SWITCH" library="RI-80GP0510" deviceset="REED_SWITCH" device="-PTH-GLASS" value=""/>
+<part name="C2" library="GRT21BR61H475ME13L" deviceset="GRT21BR61H475ME13L" device="" value=""/>
+<part name="TEST_12V" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1" value=""/>
+<part name="TEST_555" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1" value=""/>
+<part name="TEST_VBAT" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1" value=""/>
+<part name="TEST_INVERTER" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1" value=""/>
+<part name="TEST_5V" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1" value=""/>
+<part name="TEST_GND" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="WIREPAD" device="SMD1,27-254" package3d_urn="urn:adsk.eagle:package:30839/1" value=""/>
 </parts>
 <sheets>
 <sheet>
 <plain>
 </plain>
 <instances>
-<instance part="R1" gate="G$1" x="20.32" y="78.74" smashed="yes" rot="R90">
+<instance part="R_PROG" gate="G$1" x="20.32" y="78.74" smashed="yes" rot="R90">
 <attribute name="NAME" x="17.77851875" y="71.115559375" size="2.54148125" layer="95" rot="R90"/>
 <attribute name="VALUE" x="25.406640625" y="71.11003125" size="2.54331875" layer="96" rot="R90"/>
 </instance>
 <instance part="555_TIMER" gate="G$1" x="-2.54" y="-40.64" smashed="yes">
 <attribute name="NAME" x="-15.24" y="-26.94" size="2.0828" layer="95" ratio="10" rot="SR0"/>
-<attribute name="VALUE" x="-15.24" y="-57.34" size="2.0828" layer="96" ratio="10" rot="SR0"/>
 </instance>
-<instance part="BATTERY_CHARGER" gate="A" x="50.8" y="91.44" smashed="yes">
+<instance part="CHARGER" gate="A" x="50.8" y="91.44" smashed="yes">
 <attribute name="NAME" x="46.67756875" y="101.517" size="2.08666875" layer="95" ratio="10" rot="SR0"/>
-<attribute name="VALUE" x="44.84133125" y="74.2261" size="2.08808125" layer="96" ratio="10" rot="SR0"/>
 </instance>
-<instance part="C1" gate="G$1" x="7.62" y="86.36" smashed="yes" rot="R90">
+<instance part="CIN" gate="G$1" x="7.62" y="86.36" smashed="yes" rot="R90">
 <attribute name="NAME" x="3.81" y="86.36" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="12.7" y="86.36" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="MOSFET1" gate="G$1" x="124.46" y="68.58" smashed="yes" rot="R180">
+<instance part="MOSFET_P" gate="G$1" x="124.46" y="68.58" smashed="yes" rot="R180">
 <attribute name="VALUE" x="121.92" y="71.12" size="1.778" layer="96" rot="R180"/>
 <attribute name="NAME" x="121.92" y="68.58" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="C2" gate="G$1" x="78.74" y="81.28" smashed="yes" rot="R90">
+<instance part="COUT" gate="G$1" x="78.74" y="81.28" smashed="yes" rot="R90">
 <attribute name="NAME" x="74.93" y="81.28" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="83.82" y="81.28" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="GND1" gate="1" x="7.62" y="78.74" smashed="yes">
 <attribute name="VALUE" x="7.62" y="78.486" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
-<instance part="GND2" gate="1" x="20.32" y="63.5" smashed="yes">
-<attribute name="VALUE" x="20.32" y="63.246" size="1.778" layer="96" font="vector" align="top-center"/>
-</instance>
-<instance part="R3" gate="G$1" x="60.96" y="114.3" smashed="yes">
+<instance part="GND2" gate="1" x="20.32" y="63.5" smashed="yes"/>
+<instance part="R_LED" gate="G$1" x="60.96" y="114.3" smashed="yes">
 <attribute name="NAME" x="53.335559375" y="116.84148125" size="2.54148125" layer="95"/>
 <attribute name="VALUE" x="53.33003125" y="109.213359375" size="2.54331875" layer="96"/>
 </instance>
-<instance part="GND3" gate="1" x="78.74" y="73.66" smashed="yes">
-<attribute name="VALUE" x="78.74" y="73.406" size="1.778" layer="96" font="vector" align="top-center"/>
-</instance>
-<instance part="GND4" gate="1" x="104.14" y="73.66" smashed="yes">
-<attribute name="VALUE" x="104.14" y="73.406" size="1.778" layer="96" font="vector" align="top-center"/>
-</instance>
-<instance part="GND5" gate="1" x="165.1" y="66.04" smashed="yes">
-<attribute name="VALUE" x="165.1" y="65.786" size="1.778" layer="96" font="vector" align="top-center"/>
-</instance>
-<instance part="BOOST_CONVERTER" gate="J$1" x="137.16" y="5.08" smashed="yes">
+<instance part="GND3" gate="1" x="78.74" y="73.66" smashed="yes"/>
+<instance part="GND4" gate="1" x="104.14" y="73.66" smashed="yes"/>
+<instance part="GND5" gate="1" x="165.1" y="66.04" smashed="yes"/>
+<instance part="12V_REGULATOR" gate="J$1" x="137.16" y="5.08" smashed="yes">
 <attribute name="VALUE" x="134.62" y="-2.286" size="1.778" layer="96" font="vector"/>
 <attribute name="NAME" x="134.62" y="10.668" size="1.778" layer="95" font="vector"/>
 </instance>
-<instance part="GND6" gate="1" x="160.02" y="5.08" smashed="yes">
-<attribute name="VALUE" x="160.02" y="4.826" size="1.778" layer="96" font="vector" align="top-center"/>
-</instance>
+<instance part="GND6" gate="1" x="160.02" y="5.08" smashed="yes"/>
 <instance part="C3" gate="G$1" x="-58.42" y="-53.34" smashed="yes" rot="R90">
 <attribute name="NAME" x="-62.23" y="-53.34" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="-53.34" y="-53.34" size="1.778" layer="96" rot="R90"/>
@@ -3876,20 +3828,16 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="NAME" x="-45.72148125" y="-66.044440625" size="2.54148125" layer="95" rot="R90"/>
 <attribute name="VALUE" x="-38.093359375" y="-66.04996875" size="2.54331875" layer="96" rot="R90"/>
 </instance>
-<instance part="R6" gate="G$1" x="114.3" y="-53.34" smashed="yes">
+<instance part="R5" gate="G$1" x="114.3" y="-53.34" smashed="yes">
 <attribute name="NAME" x="106.675559375" y="-50.79851875" size="2.54148125" layer="95"/>
 <attribute name="VALUE" x="106.67003125" y="-58.426640625" size="2.54331875" layer="96"/>
 </instance>
-<instance part="R7" gate="G$1" x="99.06" y="-33.02" smashed="yes">
+<instance part="R4" gate="G$1" x="99.06" y="-33.02" smashed="yes">
 <attribute name="NAME" x="91.435559375" y="-30.47851875" size="2.54148125" layer="95"/>
 <attribute name="VALUE" x="91.43003125" y="-38.106640625" size="2.54331875" layer="96"/>
 </instance>
-<instance part="GND7" gate="1" x="15.24" y="-58.42" smashed="yes">
-<attribute name="VALUE" x="15.24" y="-58.674" size="1.778" layer="96" font="vector" align="top-center"/>
-</instance>
-<instance part="GND8" gate="1" x="-58.42" y="-60.96" smashed="yes">
-<attribute name="VALUE" x="-58.42" y="-61.214" size="1.778" layer="96" font="vector" align="top-center"/>
-</instance>
+<instance part="GND7" gate="1" x="15.24" y="-58.42" smashed="yes"/>
+<instance part="GND8" gate="1" x="-58.42" y="-60.96" smashed="yes"/>
 <instance part="C4" gate="G$1" x="-7.62" y="-15.24" smashed="yes" rot="R90">
 <attribute name="NAME" x="-11.43" y="-15.24" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="-2.54" y="-15.24" size="1.778" layer="96" rot="R90"/>
@@ -3897,111 +3845,118 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <instance part="GND9" gate="1" x="-7.62" y="-22.86" smashed="yes">
 <attribute name="VALUE" x="-7.62" y="-23.114" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
-<instance part="GND11" gate="1" x="154.94" y="-68.58" smashed="yes">
-<attribute name="VALUE" x="154.94" y="-68.834" size="1.778" layer="96" font="vector" align="top-center"/>
-</instance>
-<instance part="R4" gate="G$1" x="152.4" y="71.12" smashed="yes">
+<instance part="GND11" gate="1" x="154.94" y="-68.58" smashed="yes"/>
+<instance part="R3" gate="G$1" x="152.4" y="71.12" smashed="yes">
 <attribute name="NAME" x="144.775559375" y="73.66148125" size="2.54148125" layer="95"/>
 <attribute name="VALUE" x="144.77003125" y="66.033359375" size="2.54331875" layer="96"/>
+</instance>
+<instance part="CHARGER_LED" gate="G$1" x="35.56" y="114.3" smashed="yes">
+<attribute name="NAME" x="31.496" y="119.126" size="1.778" layer="95"/>
+</instance>
+<instance part="GND12" gate="1" x="-2.54" y="86.36" smashed="yes">
+<attribute name="VALUE" x="-2.54" y="86.106" size="1.778" layer="96" font="vector" align="top-center"/>
+</instance>
+<instance part="MOSFET_N1" gate="A" x="144.78" y="-45.72" smashed="yes">
+<attribute name="NAME" x="141.9098" y="-46.355" size="1.27" layer="95" ratio="6" rot="SR0"/>
+</instance>
+<instance part="MOSFET_N2" gate="A" x="114.3" y="-25.4" smashed="yes">
+<attribute name="NAME" x="111.4298" y="-26.035" size="1.27" layer="95" ratio="6" rot="SR0"/>
+</instance>
+<instance part="GND13" gate="1" x="124.46" y="-48.26" smashed="yes"/>
+<instance part="INVERTER" gate="G$1" x="50.8" y="-40.64" smashed="yes">
+<attribute name="NAME" x="43.18" y="-29.972" size="1.778" layer="95"/>
+</instance>
+<instance part="GND10" gate="1" x="66.04" y="-53.34" smashed="yes"/>
+<instance part="5V_REGULATOR" gate="U1" x="81.28" y="45.72" smashed="yes">
+<attribute name="NAME" x="73.66" y="51.562" size="1.778" layer="95"/>
+</instance>
+<instance part="GND14" gate="1" x="63.5" y="40.64" smashed="yes"/>
+<instance part="L1" gate="A" x="73.66" y="60.96" smashed="yes">
+<attribute name="VALUE" x="71.6788" y="56.6928" size="3.4798" layer="96" ratio="10" rot="SR0"/>
+<attribute name="NAME" x="72.7456" y="64.3128" size="3.4798" layer="95" ratio="10" rot="SR0"/>
+</instance>
+<instance part="C1" gate="G$1" x="106.68" y="53.34" smashed="yes" rot="R90">
+<attribute name="NAME" x="102.87" y="53.34" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="111.76" y="53.34" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="GND15" gate="1" x="106.68" y="48.26" smashed="yes"/>
+<instance part="R1" gate="G$1" x="101.6" y="33.02" smashed="yes" rot="R90">
+<attribute name="NAME" x="99.05851875" y="25.395559375" size="2.54148125" layer="95" rot="R90"/>
+<attribute name="VALUE" x="106.686640625" y="25.39003125" size="2.54331875" layer="96" rot="R90"/>
+</instance>
+<instance part="R2" gate="G$1" x="101.6" y="7.62" smashed="yes" rot="R90">
+<attribute name="NAME" x="99.05851875" y="-0.004440625" size="2.54148125" layer="95" rot="R90"/>
+<attribute name="VALUE" x="106.686640625" y="-0.00996875" size="2.54331875" layer="96" rot="R90"/>
+</instance>
+<instance part="GND16" gate="1" x="101.6" y="-7.62" smashed="yes"/>
+<instance part="R_1W" gate="G$1" x="116.84" y="15.24" smashed="yes" rot="R90">
+<attribute name="NAME" x="114.29851875" y="7.615559375" size="2.54148125" layer="95" rot="R90"/>
+<attribute name="VALUE" x="121.926640625" y="7.61003125" size="2.54331875" layer="96" rot="R90"/>
+</instance>
+<instance part="GND17" gate="1" x="109.22" y="33.02" smashed="yes">
+<attribute name="VALUE" x="109.22" y="32.766" size="1.778" layer="96" font="vector" align="top-center"/>
+</instance>
+<instance part="CHARGER_V" gate="G$1" x="-7.62" y="93.98" smashed="yes">
+<attribute name="NAME" x="-8.763" y="95.8342" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-8.763" y="90.678" size="1.778" layer="96"/>
+</instance>
+<instance part="CH_GND" gate="G$1" x="-7.62" y="91.44" smashed="yes">
+<attribute name="NAME" x="-8.763" y="93.2942" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-8.763" y="88.138" size="1.778" layer="96"/>
+</instance>
+<instance part="BATTERY_V" gate="G$1" x="99.06" y="81.28" smashed="yes">
+<attribute name="NAME" x="97.917" y="83.1342" size="1.778" layer="95"/>
+<attribute name="VALUE" x="97.917" y="77.978" size="1.778" layer="96"/>
+</instance>
+<instance part="BAT_GND" gate="G$1" x="99.06" y="78.74" smashed="yes">
+<attribute name="NAME" x="97.917" y="80.5942" size="1.778" layer="95"/>
+<attribute name="VALUE" x="97.917" y="75.438" size="1.778" layer="96"/>
+</instance>
+<instance part="LED_A" gate="G$1" x="111.76" y="-17.78" smashed="yes">
+<attribute name="NAME" x="110.617" y="-15.9258" size="1.778" layer="95"/>
+<attribute name="VALUE" x="110.617" y="-21.082" size="1.778" layer="96"/>
+</instance>
+<instance part="LED_C" gate="G$1" x="111.76" y="-20.32" smashed="yes">
+<attribute name="NAME" x="110.617" y="-18.4658" size="1.778" layer="95"/>
+<attribute name="VALUE" x="110.617" y="-23.622" size="1.778" layer="96"/>
+</instance>
+<instance part="BUZZER_A" gate="G$1" x="149.86" y="-17.78" smashed="yes">
+<attribute name="NAME" x="148.717" y="-15.9258" size="1.778" layer="95"/>
+</instance>
+<instance part="BUZZER_C" gate="G$1" x="149.86" y="-20.32" smashed="yes">
+<attribute name="NAME" x="148.717" y="-18.4658" size="1.778" layer="95"/>
 </instance>
 <instance part="REED_SWITCH" gate="G$1" x="139.7" y="81.28" smashed="yes" rot="R90">
 <attribute name="NAME" x="137.668" y="81.28" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 <attribute name="VALUE" x="141.732" y="81.28" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
-<instance part="D1" gate="G$1" x="35.56" y="114.3" smashed="yes">
-<attribute name="NAME" x="31.496" y="119.126" size="1.778" layer="95"/>
-<attribute name="VALUE" x="31.496" y="110.236" size="1.778" layer="96"/>
-</instance>
-<instance part="GND12" gate="1" x="-2.54" y="86.36" smashed="yes">
-<attribute name="VALUE" x="-2.54" y="86.106" size="1.778" layer="96" font="vector" align="top-center"/>
-</instance>
-<instance part="MOSFET2" gate="A" x="144.78" y="-45.72" smashed="yes">
-<attribute name="NAME" x="141.9098" y="-46.355" size="1.27" layer="95" ratio="6" rot="SR0"/>
-</instance>
-<instance part="MOSFET3" gate="A" x="114.3" y="-25.4" smashed="yes">
-<attribute name="NAME" x="111.4298" y="-26.035" size="1.27" layer="95" ratio="6" rot="SR0"/>
-</instance>
-<instance part="GND13" gate="1" x="124.46" y="-48.26" smashed="yes">
-<attribute name="VALUE" x="124.46" y="-48.514" size="1.778" layer="96" font="vector" align="top-center"/>
-</instance>
-<instance part="INVERTER" gate="G$1" x="50.8" y="-40.64" smashed="yes">
-<attribute name="NAME" x="43.18" y="-29.972" size="1.778" layer="95"/>
-<attribute name="VALUE" x="43.18" y="-53.34" size="1.778" layer="96"/>
-</instance>
-<instance part="GND10" gate="1" x="66.04" y="-53.34" smashed="yes">
-<attribute name="VALUE" x="66.04" y="-53.594" size="1.778" layer="96" font="vector" align="top-center"/>
-</instance>
-<instance part="VOLTAGE_REGULATOR" gate="U1" x="81.28" y="45.72" smashed="yes">
-<attribute name="NAME" x="73.66" y="51.562" size="1.778" layer="95"/>
-<attribute name="VALUE" x="73.66" y="38.1" size="1.778" layer="96"/>
-</instance>
-<instance part="GND14" gate="1" x="63.5" y="40.64" smashed="yes">
-<attribute name="VALUE" x="63.5" y="40.386" size="1.778" layer="96" font="vector" align="top-center"/>
-</instance>
-<instance part="L1" gate="A" x="73.66" y="60.96" smashed="yes">
-<attribute name="VALUE" x="71.6788" y="56.6928" size="3.4798" layer="96" ratio="10" rot="SR0"/>
-<attribute name="NAME" x="72.7456" y="64.3128" size="3.4798" layer="95" ratio="10" rot="SR0"/>
-</instance>
-<instance part="C5" gate="G$1" x="106.68" y="53.34" smashed="yes" rot="R90">
-<attribute name="NAME" x="102.87" y="53.34" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="111.76" y="53.34" size="1.778" layer="96" rot="R90"/>
-</instance>
-<instance part="GND15" gate="1" x="106.68" y="48.26" smashed="yes">
-<attribute name="VALUE" x="106.68" y="48.006" size="1.778" layer="96" font="vector" align="top-center"/>
-</instance>
-<instance part="R2" gate="G$1" x="101.6" y="33.02" smashed="yes" rot="R90">
-<attribute name="NAME" x="99.05851875" y="25.395559375" size="2.54148125" layer="95" rot="R90"/>
-<attribute name="VALUE" x="106.686640625" y="25.39003125" size="2.54331875" layer="96" rot="R90"/>
-</instance>
-<instance part="R5" gate="G$1" x="101.6" y="7.62" smashed="yes" rot="R90">
-<attribute name="NAME" x="99.05851875" y="-0.004440625" size="2.54148125" layer="95" rot="R90"/>
-<attribute name="VALUE" x="106.686640625" y="-0.00996875" size="2.54331875" layer="96" rot="R90"/>
-</instance>
-<instance part="GND16" gate="1" x="101.6" y="-7.62" smashed="yes">
-<attribute name="VALUE" x="101.6" y="-7.874" size="1.778" layer="96" font="vector" align="top-center"/>
-</instance>
-<instance part="R1_1W" gate="G$1" x="116.84" y="15.24" smashed="yes" rot="R90">
-<attribute name="NAME" x="114.29851875" y="7.615559375" size="2.54148125" layer="95" rot="R90"/>
-<attribute name="VALUE" x="121.926640625" y="7.61003125" size="2.54331875" layer="96" rot="R90"/>
-</instance>
-<instance part="C6" gate="G$1" x="109.22" y="38.1" smashed="yes" rot="R90">
+<instance part="C2" gate="G$1" x="109.22" y="38.1" smashed="yes" rot="R90">
 <attribute name="NAME" x="105.41" y="38.1" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="114.3" y="38.1" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="GND17" gate="1" x="109.22" y="33.02" smashed="yes">
-<attribute name="VALUE" x="109.22" y="32.766" size="1.778" layer="96" font="vector" align="top-center"/>
+<instance part="TEST_12V" gate="G$1" x="17.78" y="5.08" smashed="yes" rot="R270">
+<attribute name="NAME" x="19.6342" y="6.223" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="14.478" y="6.223" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="CHARGER_PORT1" gate="G$1" x="-7.62" y="93.98" smashed="yes">
-<attribute name="NAME" x="-8.763" y="95.8342" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-8.763" y="90.678" size="1.778" layer="96"/>
+<instance part="TEST_555" gate="G$1" x="27.94" y="-43.18" smashed="yes" rot="R90">
+<attribute name="NAME" x="26.0858" y="-44.323" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="31.242" y="-44.323" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="CHARGER_PORT2" gate="G$1" x="-7.62" y="91.44" smashed="yes">
-<attribute name="NAME" x="-8.763" y="93.2942" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-8.763" y="88.138" size="1.778" layer="96"/>
+<instance part="TEST_VBAT" gate="G$1" x="149.86" y="60.96" smashed="yes" rot="R180">
+<attribute name="NAME" x="151.003" y="59.1058" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="151.003" y="64.262" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="BATTERY1" gate="G$1" x="99.06" y="81.28" smashed="yes">
-<attribute name="NAME" x="97.917" y="83.1342" size="1.778" layer="95"/>
-<attribute name="VALUE" x="97.917" y="77.978" size="1.778" layer="96"/>
+<instance part="TEST_INVERTER" gate="G$1" x="78.74" y="-43.18" smashed="yes" rot="R90">
+<attribute name="NAME" x="76.8858" y="-44.323" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="82.042" y="-44.323" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="BATTERY2" gate="G$1" x="99.06" y="78.74" smashed="yes">
-<attribute name="NAME" x="97.917" y="80.5942" size="1.778" layer="95"/>
-<attribute name="VALUE" x="97.917" y="75.438" size="1.778" layer="96"/>
+<instance part="TEST_5V" gate="G$1" x="119.38" y="45.72" smashed="yes" rot="R180">
+<attribute name="NAME" x="120.523" y="43.8658" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="120.523" y="49.022" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="WHITE_LED1" gate="G$1" x="111.76" y="-17.78" smashed="yes">
-<attribute name="NAME" x="110.617" y="-15.9258" size="1.778" layer="95"/>
-<attribute name="VALUE" x="110.617" y="-21.082" size="1.778" layer="96"/>
-</instance>
-<instance part="WHITE_LED2" gate="G$1" x="111.76" y="-20.32" smashed="yes">
-<attribute name="NAME" x="110.617" y="-18.4658" size="1.778" layer="95"/>
-<attribute name="VALUE" x="110.617" y="-23.622" size="1.778" layer="96"/>
-</instance>
-<instance part="ACTIVE_BUZZER1" gate="G$1" x="149.86" y="-17.78" smashed="yes">
-<attribute name="NAME" x="148.717" y="-15.9258" size="1.778" layer="95"/>
-<attribute name="VALUE" x="148.717" y="-21.082" size="1.778" layer="96"/>
-</instance>
-<instance part="ACTIVE_BUZZER2" gate="G$1" x="149.86" y="-20.32" smashed="yes">
-<attribute name="NAME" x="148.717" y="-18.4658" size="1.778" layer="95"/>
-<attribute name="VALUE" x="148.717" y="-23.622" size="1.778" layer="96"/>
+<instance part="TEST_GND" gate="G$1" x="-55.88" y="-58.42" smashed="yes" rot="R180">
+<attribute name="NAME" x="-54.737" y="-60.2742" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="-54.737" y="-55.118" size="1.778" layer="96" rot="R180"/>
 </instance>
 </instances>
 <busses>
@@ -4009,38 +3964,38 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <nets>
 <net name="VCHARGE" class="0">
 <segment>
-<pinref part="BATTERY_CHARGER" gate="A" pin="VDD"/>
+<pinref part="CHARGER" gate="A" pin="VDD"/>
 <wire x1="33.02" y1="93.98" x2="22.86" y2="93.98" width="0.1524" layer="91"/>
-<pinref part="C1" gate="G$1" pin="1"/>
+<pinref part="CIN" gate="G$1" pin="1"/>
 <wire x1="22.86" y1="93.98" x2="7.62" y2="93.98" width="0.1524" layer="91"/>
 <wire x1="7.62" y1="93.98" x2="7.62" y2="91.44" width="0.1524" layer="91"/>
 <wire x1="22.86" y1="114.3" x2="22.86" y2="93.98" width="0.1524" layer="91"/>
 <junction x="22.86" y="93.98"/>
-<pinref part="D1" gate="G$1" pin="A"/>
+<pinref part="CHARGER_LED" gate="G$1" pin="A"/>
 <wire x1="30.48" y1="114.3" x2="22.86" y2="114.3" width="0.1524" layer="91"/>
 <wire x1="7.62" y1="93.98" x2="-5.08" y2="93.98" width="0.1524" layer="91"/>
 <junction x="7.62" y="93.98"/>
-<label x="-5.08" y="93.98" size="1.778" layer="95"/>
-<pinref part="CHARGER_PORT1" gate="G$1" pin="P"/>
+<label x="12.7" y="93.98" size="1.778" layer="95"/>
+<pinref part="CHARGER_V" gate="G$1" pin="P"/>
 </segment>
 </net>
 <net name="GND" class="0">
 <segment>
-<pinref part="C1" gate="G$1" pin="2"/>
+<pinref part="CIN" gate="G$1" pin="2"/>
 <wire x1="7.62" y1="83.82" x2="7.62" y2="81.28" width="0.1524" layer="91"/>
 <pinref part="GND1" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="BATTERY_CHARGER" gate="A" pin="VSS"/>
+<pinref part="CHARGER" gate="A" pin="VSS"/>
 <wire x1="33.02" y1="83.82" x2="33.02" y2="68.58" width="0.1524" layer="91"/>
-<pinref part="R1" gate="G$1" pin="1"/>
+<pinref part="R_PROG" gate="G$1" pin="1"/>
 <wire x1="33.02" y1="68.58" x2="20.32" y2="68.58" width="0.1524" layer="91"/>
 <wire x1="20.32" y1="68.58" x2="20.32" y2="66.04" width="0.1524" layer="91"/>
 <junction x="20.32" y="68.58"/>
 <pinref part="GND2" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="C2" gate="G$1" pin="2"/>
+<pinref part="COUT" gate="G$1" pin="2"/>
 <wire x1="78.74" y1="78.74" x2="78.74" y2="76.2" width="0.1524" layer="91"/>
 <pinref part="GND3" gate="1" pin="GND"/>
 </segment>
@@ -4048,10 +4003,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="101.6" y1="78.74" x2="104.14" y2="78.74" width="0.1524" layer="91"/>
 <wire x1="104.14" y1="78.74" x2="104.14" y2="76.2" width="0.1524" layer="91"/>
 <pinref part="GND4" gate="1" pin="GND"/>
-<pinref part="BATTERY2" gate="G$1" pin="P"/>
+<pinref part="BAT_GND" gate="G$1" pin="P"/>
 </segment>
 <segment>
-<pinref part="BOOST_CONVERTER" gate="J$1" pin="2"/>
+<pinref part="12V_REGULATOR" gate="J$1" pin="2"/>
 <wire x1="144.78" y1="5.08" x2="154.94" y2="5.08" width="0.1524" layer="91"/>
 <wire x1="154.94" y1="5.08" x2="154.94" y2="10.16" width="0.1524" layer="91"/>
 <wire x1="154.94" y1="10.16" x2="160.02" y2="10.16" width="0.1524" layer="91"/>
@@ -4067,6 +4022,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="C3" gate="G$1" pin="2"/>
 <wire x1="-58.42" y1="-55.88" x2="-58.42" y2="-58.42" width="0.1524" layer="91"/>
 <pinref part="GND8" gate="1" pin="GND"/>
+<pinref part="TEST_GND" gate="G$1" pin="P"/>
+<junction x="-58.42" y="-58.42"/>
 </segment>
 <segment>
 <pinref part="C4" gate="G$1" pin="2"/>
@@ -4076,10 +4033,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <segment>
 <wire x1="154.94" y1="-63.5" x2="154.94" y2="-66.04" width="0.1524" layer="91"/>
 <pinref part="GND11" gate="1" pin="GND"/>
-<pinref part="MOSFET2" gate="A" pin="2"/>
+<pinref part="MOSFET_N1" gate="A" pin="2"/>
 </segment>
 <segment>
-<pinref part="R4" gate="G$1" pin="2"/>
+<pinref part="R3" gate="G$1" pin="2"/>
 <wire x1="162.56" y1="71.12" x2="165.1" y2="71.12" width="0.1524" layer="91"/>
 <wire x1="165.1" y1="71.12" x2="165.1" y2="68.58" width="0.1524" layer="91"/>
 <pinref part="GND5" gate="1" pin="GND"/>
@@ -4088,10 +4045,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="-5.08" y1="91.44" x2="-2.54" y2="91.44" width="0.1524" layer="91"/>
 <wire x1="-2.54" y1="91.44" x2="-2.54" y2="88.9" width="0.1524" layer="91"/>
 <pinref part="GND12" gate="1" pin="GND"/>
-<pinref part="CHARGER_PORT2" gate="G$1" pin="P"/>
+<pinref part="CH_GND" gate="G$1" pin="P"/>
 </segment>
 <segment>
-<pinref part="MOSFET3" gate="A" pin="2"/>
+<pinref part="MOSFET_N2" gate="A" pin="2"/>
 <wire x1="124.46" y1="-43.18" x2="124.46" y2="-45.72" width="0.1524" layer="91"/>
 <pinref part="GND13" gate="1" pin="GND"/>
 </segment>
@@ -4102,101 +4059,102 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="GND10" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="VOLTAGE_REGULATOR" gate="U1" pin="GND"/>
+<pinref part="5V_REGULATOR" gate="U1" pin="GND"/>
 <wire x1="71.12" y1="45.72" x2="63.5" y2="45.72" width="0.1524" layer="91"/>
 <wire x1="63.5" y1="45.72" x2="63.5" y2="43.18" width="0.1524" layer="91"/>
 <pinref part="GND14" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="C5" gate="G$1" pin="2"/>
+<pinref part="C1" gate="G$1" pin="2"/>
 <pinref part="GND15" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="R5" gate="G$1" pin="1"/>
+<pinref part="R2" gate="G$1" pin="1"/>
 <wire x1="101.6" y1="-2.54" x2="101.6" y2="-5.08" width="0.1524" layer="91"/>
 <pinref part="GND16" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="C6" gate="G$1" pin="2"/>
+<pinref part="C2" gate="G$1" pin="2"/>
 <pinref part="GND17" gate="1" pin="GND"/>
 </segment>
 </net>
 <net name="N$2" class="0">
 <segment>
-<pinref part="BATTERY_CHARGER" gate="A" pin="PROG"/>
-<pinref part="R1" gate="G$1" pin="2"/>
+<pinref part="CHARGER" gate="A" pin="PROG"/>
+<pinref part="R_PROG" gate="G$1" pin="2"/>
 <wire x1="33.02" y1="88.9" x2="20.32" y2="88.9" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$5" class="0">
 <segment>
-<pinref part="BATTERY_CHARGER" gate="A" pin="STAT"/>
+<pinref part="CHARGER" gate="A" pin="STAT"/>
 <wire x1="68.58" y1="93.98" x2="78.74" y2="93.98" width="0.1524" layer="91"/>
 <wire x1="78.74" y1="93.98" x2="78.74" y2="114.3" width="0.1524" layer="91"/>
 <wire x1="78.74" y1="114.3" x2="71.12" y2="114.3" width="0.1524" layer="91"/>
-<pinref part="R3" gate="G$1" pin="2"/>
+<pinref part="R_LED" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="VBAT" class="0">
 <segment>
-<pinref part="BATTERY_CHARGER" gate="A" pin="VBAT"/>
+<pinref part="CHARGER" gate="A" pin="VBAT"/>
 <wire x1="68.58" y1="88.9" x2="78.74" y2="88.9" width="0.1524" layer="91"/>
 <wire x1="78.74" y1="88.9" x2="104.14" y2="88.9" width="0.1524" layer="91"/>
-<wire x1="104.14" y1="88.9" x2="114.3" y2="88.9" width="0.1524" layer="91"/>
-<wire x1="114.3" y1="88.9" x2="124.46" y2="88.9" width="0.1524" layer="91"/>
+<wire x1="104.14" y1="88.9" x2="124.46" y2="88.9" width="0.1524" layer="91"/>
 <wire x1="124.46" y1="88.9" x2="139.7" y2="88.9" width="0.1524" layer="91"/>
 <wire x1="139.7" y1="88.9" x2="177.8" y2="88.9" width="0.1524" layer="91"/>
 <wire x1="78.74" y1="88.9" x2="78.74" y2="86.36" width="0.1524" layer="91"/>
 <junction x="78.74" y="88.9"/>
-<pinref part="C2" gate="G$1" pin="1"/>
+<pinref part="COUT" gate="G$1" pin="1"/>
 <wire x1="101.6" y1="81.28" x2="104.14" y2="81.28" width="0.1524" layer="91"/>
 <wire x1="104.14" y1="81.28" x2="104.14" y2="88.9" width="0.1524" layer="91"/>
 <junction x="104.14" y="88.9"/>
-<pinref part="MOSFET1" gate="G$1" pin="S"/>
+<pinref part="MOSFET_P" gate="G$1" pin="S"/>
 <wire x1="124.46" y1="88.9" x2="124.46" y2="73.66" width="0.1524" layer="91"/>
 <junction x="124.46" y="88.9"/>
 <wire x1="139.7" y1="88.9" x2="139.7" y2="86.36" width="0.1524" layer="91"/>
 <junction x="139.7" y="88.9"/>
 <label x="177.8" y="88.9" size="1.778" layer="95"/>
+<pinref part="BATTERY_V" gate="G$1" pin="P"/>
 <pinref part="REED_SWITCH" gate="G$1" pin="2"/>
-<pinref part="VOLTAGE_REGULATOR" gate="U1" pin="VIN"/>
-<wire x1="91.44" y1="48.26" x2="93.98" y2="48.26" width="0.1524" layer="91"/>
-<wire x1="93.98" y1="48.26" x2="93.98" y2="60.96" width="0.1524" layer="91"/>
-<wire x1="93.98" y1="60.96" x2="88.9" y2="60.96" width="0.1524" layer="91"/>
-<pinref part="L1" gate="A" pin="1"/>
-<wire x1="93.98" y1="60.96" x2="106.68" y2="60.96" width="0.1524" layer="91"/>
-<junction x="93.98" y="60.96"/>
-<wire x1="106.68" y1="60.96" x2="114.3" y2="60.96" width="0.1524" layer="91"/>
-<wire x1="106.68" y1="60.96" x2="106.68" y2="58.42" width="0.1524" layer="91"/>
-<junction x="106.68" y="60.96"/>
-<pinref part="C5" gate="G$1" pin="1"/>
-<wire x1="114.3" y1="60.96" x2="114.3" y2="88.9" width="0.1524" layer="91"/>
-<junction x="114.3" y="88.9"/>
-<pinref part="BATTERY1" gate="G$1" pin="P"/>
 </segment>
 </net>
 <net name="N$4" class="0">
 <segment>
-<pinref part="MOSFET1" gate="G$1" pin="G"/>
+<pinref part="MOSFET_P" gate="G$1" pin="G"/>
 <wire x1="129.54" y1="71.12" x2="139.7" y2="71.12" width="0.1524" layer="91"/>
 <junction x="139.7" y="71.12"/>
 <wire x1="139.7" y1="71.12" x2="142.24" y2="71.12" width="0.1524" layer="91"/>
-<pinref part="R4" gate="G$1" pin="1"/>
-<pinref part="REED_SWITCH" gate="G$1" pin="1"/>
+<pinref part="R3" gate="G$1" pin="1"/>
 <wire x1="139.7" y1="76.2" x2="139.7" y2="71.12" width="0.1524" layer="91"/>
+<pinref part="REED_SWITCH" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="VIN" class="0">
 <segment>
-<pinref part="BOOST_CONVERTER" gate="J$1" pin="3"/>
+<pinref part="12V_REGULATOR" gate="J$1" pin="3"/>
 <wire x1="144.78" y1="7.62" x2="147.32" y2="7.62" width="0.1524" layer="91"/>
-<pinref part="MOSFET1" gate="G$1" pin="D"/>
-<wire x1="124.46" y1="63.5" x2="147.32" y2="63.5" width="0.1524" layer="91"/>
-<wire x1="147.32" y1="63.5" x2="147.32" y2="7.62" width="0.1524" layer="91"/>
+<pinref part="MOSFET_P" gate="G$1" pin="D"/>
 <label x="147.32" y="7.62" size="1.778" layer="95"/>
+<wire x1="147.32" y1="60.96" x2="147.32" y2="7.62" width="0.1524" layer="91"/>
+<pinref part="C1" gate="G$1" pin="1"/>
+<wire x1="106.68" y1="60.96" x2="106.68" y2="58.42" width="0.1524" layer="91"/>
+<junction x="106.68" y="60.96"/>
+<pinref part="L1" gate="A" pin="1"/>
+<wire x1="93.98" y1="60.96" x2="88.9" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="93.98" y1="60.96" x2="106.68" y2="60.96" width="0.1524" layer="91"/>
+<junction x="93.98" y="60.96"/>
+<wire x1="93.98" y1="48.26" x2="93.98" y2="60.96" width="0.1524" layer="91"/>
+<pinref part="5V_REGULATOR" gate="U1" pin="VIN"/>
+<wire x1="91.44" y1="48.26" x2="93.98" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="60.96" x2="124.46" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="124.46" y1="63.5" x2="124.46" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="124.46" y1="60.96" x2="147.32" y2="60.96" width="0.1524" layer="91"/>
+<junction x="124.46" y="60.96"/>
+<pinref part="TEST_VBAT" gate="G$1" pin="P"/>
+<junction x="147.32" y="60.96"/>
 </segment>
 <segment>
-<pinref part="VOLTAGE_REGULATOR" gate="U1" pin="EN"/>
+<pinref part="5V_REGULATOR" gate="U1" pin="EN"/>
 <wire x1="71.12" y1="43.18" x2="68.58" y2="43.18" width="0.1524" layer="91"/>
 <wire x1="68.58" y1="43.18" x2="68.58" y2="30.48" width="0.1524" layer="91"/>
 <label x="68.58" y="30.48" size="1.778" layer="95"/>
@@ -4204,11 +4162,11 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </net>
 <net name="12V" class="0">
 <segment>
-<pinref part="BOOST_CONVERTER" gate="J$1" pin="1"/>
+<pinref part="12V_REGULATOR" gate="J$1" pin="1"/>
 <label x="147.32" y="2.54" size="1.778" layer="95"/>
 <wire x1="144.78" y1="2.54" x2="154.94" y2="2.54" width="0.1524" layer="91"/>
 <wire x1="154.94" y1="2.54" x2="154.94" y2="-17.78" width="0.1524" layer="91"/>
-<pinref part="ACTIVE_BUZZER1" gate="G$1" pin="P"/>
+<pinref part="BUZZER_A" gate="G$1" pin="P"/>
 <wire x1="152.4" y1="-17.78" x2="154.94" y2="-17.78" width="0.1524" layer="91"/>
 </segment>
 <segment>
@@ -4232,6 +4190,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="-25.4" y1="-48.26" x2="-25.4" y2="-40.64" width="0.1524" layer="91"/>
 <wire x1="-25.4" y1="-40.64" x2="-27.94" y2="-40.64" width="0.1524" layer="91"/>
 <wire x1="17.78" y1="-7.62" x2="17.78" y2="2.54" width="0.1524" layer="91"/>
+<pinref part="TEST_12V" gate="G$1" pin="P"/>
 </segment>
 <segment>
 <pinref part="INVERTER" gate="G$1" pin="VDD"/>
@@ -4258,7 +4217,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <segment>
 <pinref part="555_TIMER" gate="G$1" pin="OUT"/>
 <pinref part="INVERTER" gate="G$1" pin="A"/>
-<wire x1="15.24" y1="-40.64" x2="38.1" y2="-40.64" width="0.1524" layer="91"/>
+<wire x1="15.24" y1="-40.64" x2="27.94" y2="-40.64" width="0.1524" layer="91"/>
+<pinref part="TEST_555" gate="G$1" pin="P"/>
+<wire x1="27.94" y1="-40.64" x2="38.1" y2="-40.64" width="0.1524" layer="91"/>
+<junction x="27.94" y="-40.64"/>
 </segment>
 </net>
 <net name="N$13" class="0">
@@ -4267,47 +4229,50 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="86.36" y1="-40.64" x2="86.36" y2="-53.34" width="0.1524" layer="91"/>
 <junction x="86.36" y="-40.64"/>
 <wire x1="86.36" y1="-33.02" x2="88.9" y2="-33.02" width="0.1524" layer="91"/>
-<pinref part="R7" gate="G$1" pin="1"/>
-<pinref part="R6" gate="G$1" pin="1"/>
+<pinref part="R4" gate="G$1" pin="1"/>
+<pinref part="R5" gate="G$1" pin="1"/>
 <wire x1="86.36" y1="-53.34" x2="104.14" y2="-53.34" width="0.1524" layer="91"/>
 <pinref part="INVERTER" gate="G$1" pin="Y"/>
-<wire x1="63.5" y1="-40.64" x2="86.36" y2="-40.64" width="0.1524" layer="91"/>
+<wire x1="63.5" y1="-40.64" x2="78.74" y2="-40.64" width="0.1524" layer="91"/>
+<pinref part="TEST_INVERTER" gate="G$1" pin="P"/>
+<wire x1="78.74" y1="-40.64" x2="86.36" y2="-40.64" width="0.1524" layer="91"/>
+<junction x="78.74" y="-40.64"/>
 </segment>
 </net>
 <net name="N$14" class="0">
 <segment>
-<pinref part="R7" gate="G$1" pin="2"/>
+<pinref part="R4" gate="G$1" pin="2"/>
 <wire x1="109.22" y1="-33.02" x2="111.76" y2="-33.02" width="0.1524" layer="91"/>
-<pinref part="MOSFET3" gate="A" pin="1"/>
+<pinref part="MOSFET_N2" gate="A" pin="1"/>
 </segment>
 </net>
 <net name="N$15" class="0">
 <segment>
-<pinref part="MOSFET3" gate="A" pin="3"/>
+<pinref part="MOSFET_N2" gate="A" pin="3"/>
 <wire x1="114.3" y1="-20.32" x2="124.46" y2="-20.32" width="0.1524" layer="91"/>
 <wire x1="124.46" y1="-20.32" x2="124.46" y2="-22.86" width="0.1524" layer="91"/>
-<pinref part="WHITE_LED2" gate="G$1" pin="P"/>
+<pinref part="LED_C" gate="G$1" pin="P"/>
 </segment>
 </net>
 <net name="N$18" class="0">
 <segment>
-<pinref part="R6" gate="G$1" pin="2"/>
+<pinref part="R5" gate="G$1" pin="2"/>
 <wire x1="124.46" y1="-53.34" x2="142.24" y2="-53.34" width="0.1524" layer="91"/>
-<pinref part="MOSFET2" gate="A" pin="1"/>
+<pinref part="MOSFET_N1" gate="A" pin="1"/>
 </segment>
 </net>
 <net name="N$19" class="0">
 <segment>
 <wire x1="154.94" y1="-20.32" x2="154.94" y2="-43.18" width="0.1524" layer="91"/>
-<pinref part="MOSFET2" gate="A" pin="3"/>
-<pinref part="ACTIVE_BUZZER2" gate="G$1" pin="P"/>
+<pinref part="MOSFET_N1" gate="A" pin="3"/>
+<pinref part="BUZZER_C" gate="G$1" pin="P"/>
 <wire x1="152.4" y1="-20.32" x2="154.94" y2="-20.32" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$3" class="0">
 <segment>
-<pinref part="D1" gate="G$1" pin="C"/>
-<pinref part="R3" gate="G$1" pin="1"/>
+<pinref part="CHARGER_LED" gate="G$1" pin="C"/>
+<pinref part="R_LED" gate="G$1" pin="1"/>
 <wire x1="43.18" y1="114.3" x2="50.8" y2="114.3" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -4337,7 +4302,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </net>
 <net name="N$10" class="0">
 <segment>
-<pinref part="VOLTAGE_REGULATOR" gate="U1" pin="SW"/>
+<pinref part="5V_REGULATOR" gate="U1" pin="SW"/>
 <wire x1="68.58" y1="48.26" x2="71.12" y2="48.26" width="0.1524" layer="91"/>
 <wire x1="68.58" y1="60.96" x2="68.58" y2="48.26" width="0.1524" layer="91"/>
 <wire x1="73.66" y1="60.96" x2="68.58" y2="60.96" width="0.1524" layer="91"/>
@@ -4346,23 +4311,29 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </net>
 <net name="5V" class="0">
 <segment>
-<pinref part="VOLTAGE_REGULATOR" gate="U1" pin="VOUT"/>
+<pinref part="5V_REGULATOR" gate="U1" pin="VOUT"/>
 <wire x1="91.44" y1="45.72" x2="101.6" y2="45.72" width="0.1524" layer="91"/>
-<wire x1="116.84" y1="45.72" x2="101.6" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="116.84" y1="45.72" x2="109.22" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="109.22" y1="45.72" x2="101.6" y2="45.72" width="0.1524" layer="91"/>
 <wire x1="101.6" y1="45.72" x2="101.6" y2="43.18" width="0.1524" layer="91"/>
 <junction x="101.6" y="45.72"/>
-<pinref part="R2" gate="G$1" pin="2"/>
+<pinref part="R1" gate="G$1" pin="2"/>
 <label x="116.84" y="45.72" size="1.778" layer="95"/>
 <wire x1="116.84" y1="45.72" x2="116.84" y2="25.4" width="0.1524" layer="91"/>
-<pinref part="R1_1W" gate="G$1" pin="2"/>
+<pinref part="R_1W" gate="G$1" pin="2"/>
+<wire x1="109.22" y1="43.18" x2="109.22" y2="45.72" width="0.1524" layer="91"/>
+<junction x="109.22" y="45.72"/>
+<pinref part="C2" gate="G$1" pin="1"/>
+<pinref part="TEST_5V" gate="G$1" pin="P"/>
+<junction x="116.84" y="45.72"/>
 </segment>
 </net>
 <net name="N$12" class="0">
 <segment>
-<pinref part="R2" gate="G$1" pin="1"/>
+<pinref part="R1" gate="G$1" pin="1"/>
 <wire x1="101.6" y1="22.86" x2="101.6" y2="20.32" width="0.1524" layer="91"/>
-<pinref part="R5" gate="G$1" pin="2"/>
-<pinref part="VOLTAGE_REGULATOR" gate="U1" pin="FB"/>
+<pinref part="R2" gate="G$1" pin="2"/>
+<pinref part="5V_REGULATOR" gate="U1" pin="FB"/>
 <wire x1="101.6" y1="20.32" x2="101.6" y2="17.78" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="43.18" x2="93.98" y2="43.18" width="0.1524" layer="91"/>
 <wire x1="93.98" y1="43.18" x2="93.98" y2="20.32" width="0.1524" layer="91"/>
@@ -4374,14 +4345,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <segment>
 <wire x1="116.84" y1="5.08" x2="116.84" y2="-17.78" width="0.1524" layer="91"/>
 <wire x1="114.3" y1="-17.78" x2="116.84" y2="-17.78" width="0.1524" layer="91"/>
-<pinref part="R1_1W" gate="G$1" pin="1"/>
-<pinref part="WHITE_LED1" gate="G$1" pin="P"/>
-</segment>
-</net>
-<net name="VBAT1" class="0">
-<segment>
-<wire x1="109.22" y1="45.72" x2="109.22" y2="43.18" width="0.1524" layer="91"/>
-<pinref part="C6" gate="G$1" pin="1"/>
+<pinref part="R_1W" gate="G$1" pin="1"/>
+<pinref part="LED_A" gate="G$1" pin="P"/>
 </segment>
 </net>
 </nets>
